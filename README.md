@@ -25,6 +25,24 @@ The analysis of the election show that:
 - The winner of the election was: 
   - Diane Degette, who received 73.8% of the vote for 272,892 total votes. 
 
-## Challenge Overview
+## Election-Audit Overview
+The purpose of this congressional election-audit is to summarize the voting results for three counties in terms of number of votes and the voting percentage. From there, we will print out the results both to the terminal, and also to a text file. These result will be added to prior work done in capturing the results for each candidate. 
 
-## Challenge Summary
+## Election-Audit Results 
+* There were a total of 369,711 votes cast in this congressional election.
+* The following represents the number of votes and vote percentage for each county: 
+  - Jefferson: Total Votes = 38,855. % of the total vote = 10.5%
+  - Denver: Total Votes = 306,055. % of the total vote = 82.8%
+  - Arapahoe: Total Votes = 24,801. % of the total vote = 6.7%
+* Denver had the highest number of votes with a total of 306,055 votes or 82.8% of the total vote. 
+* The following represents the number of votes and vote percentage of each candidate: 
+  - Charles Casper Stockholm: Total votes = 85,213. % of the total vote = 23.0%
+  - Diana Degette: Total votes = 272,892. % of the total vote = 73.8%
+  - Raymon Anthony Doane: Total votes = 11,606. % of the total vote = 3.1%
+* Diane Degette had the highest number of votes with a total of 272,892 votes or 73.8% of the total vote. 
+## Election-Audit Summary
+### The software used for this election-audit can be used for any election. Below are a couple of examples that show how you might use this in future elections: 
+  - The dictionary holding the counties and vote totals can be modified to capture any group of counties simply by substituting with the elections results file a new group of candidates, counties and vote totals. 
+  - This can be applied to a national election by creating a dictionary of states, as opposed to counties, and running the same logic to capture state totals, percentages, and creating any summary information associated with this. 
+
+The nice thing about the approach done here is that any election can be summarized in a one page document, giving the observer the ability to understand the results of an election in a single glance. 
