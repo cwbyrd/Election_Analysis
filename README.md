@@ -40,6 +40,10 @@ The purpose of this congressional election-audit is to summarize the voting resu
   - Diana Degette: Total votes = 272,892. % of the total vote = 73.8%
   - Raymon Anthony Doane: Total votes = 11,606. % of the total vote = 3.1%
 * Diane Degette had the highest number of votes with a total of 272,892 votes or 73.8% of the total vote. 
+
+See summary results below: 
+https://github.com/cwbyrd/Election_Analysis/commit/ffdf88ebe8f238f33ba6b9bb8c7812d6e60dc1f6
+
 ## Election-Audit Summary
 ### The software used for this election-audit can be used for any election. Below are a couple of examples that show how you might use this in future elections: 
   - The dictionary holding the counties and vote totals can be modified to capture any group of counties simply by substituting with the elections results file a new group of candidates, counties and vote totals. 
